@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=d96b6c&height=200&section=header&text=Daphne%20Soares%20Santos&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Seguran%C3%A7a%20da%20Informa%C3%A7%C3%A3o%20%7C%20Pentest%20%26%20Criptografia&descSize=16&descColor=ffffff&descAlignY=58)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=d96b6c&height=200&section=header&text=Daphne%20Soares%20Santos&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Seguranca%20da%20Informacao%20%7C%20Pentest%20%26%20Criptografia&descSize=16&descColor=ffffff&descAlignY=58)
 
 ### Investigando vulnerabilidades, aplicando testes de intrusão e protegendo dados através da segurança ética.
 
