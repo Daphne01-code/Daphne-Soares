@@ -1,7 +1,6 @@
 <div align="center">
-
 <p align="center">
-  <img src="URL_DA_SUA_IMAGEM" alt="Banner Daphne Soares" width="100%">
+  <img src="https://vstf.dev" alt="Banner Daphne" width="100%">
 </p>
 
 ### Investigando vulnerabilidades, aplicando testes de intrusão e protegendo dados através da segurança ética.
