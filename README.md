@@ -1,16 +1,13 @@
-# Daphne Soares Santos
-
 <div align="center">
 
-<h1>Daphne Soares Santos</h1>
-<h3>Segurança da Informação | Pentest & Criptografia</h3>
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=d96b6c&height=200&section=header&text=Daphne%20Soares%20Santos&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Seguran%C3%A7a%20da%20Informa%C3%A7%C3%A3o%20%7C%20Pentest%20%26%20Criptografia&descSize=16&descColor=ffffff&descAlignY=58)
 
-<p>Investigando vulnerabilidades, aplicando testes de intrusão e protegendo dados através da segurança ética.</p>
+### Investigando vulnerabilidades, aplicando testes de intrusão e protegendo dados através da segurança ética.
 
-<p>
-  <a href="https://www.linkedin.com/in/daphnesoares">LINKEDIN</a> | 
-  <a href="mailto:daphnesoares1@gmail.com">E-MAIL</a>
-</p>
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daphnesoares)
+[![E-mail](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daphnesoares1@gmail.com)
 
 </div>
 
@@ -18,11 +15,11 @@
 
 ### Sobre Mim
 
-- **Formação Acadêmica:** Engenheira de Controle e Automação (SENAI CIMATEC)[cite: 1] e Técnica em Automação Industrial (IFBA)[cite: 1], aplicando raciocínio lógico e investigação metodológica em tecnologia. Pós-graduanda em Gestão de Projetos (FACUMINAS).
-- **Especialização:** Programa Mulher Digital (JA Brasil / Cisco Networking Academy), com foco em Pentest, Ethical Hacking, Criptografia e Infraestrutura de Redes[cite: 1].
+- **Formação Acadêmica:** Engenheira de Controle e Automação (SENAI CIMATEC) e Técnica em Automação Industrial (IFBA), aplicando raciocínio lógico e investigação metodológica em tecnologia. Pós-graduanda em Gestão de Projetos (FACUMINAS).
+- **Especialização:** Programa Mulher Digital (JA Brasil / Cisco Networking Academy), com foco em Pentest, Ethical Hacking, Criptografia e Infraestrutura de Redes.
 - **Perfil Investigativo & Resolução de Problemas:** Foco no rastreio de causa-raiz, análise minuciosa de sistemas e documentação técnica precisa para relatórios de vulnerabilidade.
-- **Stack & Ferramentas:** Scripting e desenvolvimento em Python, Linguagem C e Ada[cite: 1]; IDES e Ambientes como VS Code, Elipse E3 Studio e MATLAB/Octave[cite: 1]; análise de dados em SQL, Power BI e Excel Avançado[cite: 1]; simulação e configuração de infraestrutura no Cisco Packet Tracer.
-- **Vivência Internacional & Idiomas:** Experiência prática de intercâmbio (Irlanda, Inglaterra e França)[cite: 1], com Inglês Nível B1 (Intermediário)[cite: 1] e Espanhol para comunicação e documentação técnica[cite: 1].
+- **Stack & Ferramentas:** Scripting e desenvolvimento em Python, Linguagem C e Ada; IDEs e Ambientes como VS Code, Elipse E3 Studio e MATLAB/Octave; análise de dados em SQL, Power BI e Excel Avançado; simulação e configuração de infraestrutura no Cisco Packet Tracer.
+- **Vivência Internacional & Idiomas:** Experiência prática de intercâmbio (Irlanda, Inglaterra e França), com Inglês Nível B1 (Intermediário) e Espanhol para comunicação e documentação técnica.
 
 ---
 
