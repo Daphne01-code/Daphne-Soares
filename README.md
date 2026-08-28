@@ -1,11 +1,12 @@
+# Daphne Soares Santos
+
 <div align="center">
 
 ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:002b49,50:005b96,100:6497b1&height=200&section=header&text=Daphne%20Soares%20Santos&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Engenharia%20de%20Controle%20e%20Automa%C3%A7%C3%A3o%20%7C%20Ciberseguran%C3%A7a%20%26%20OT&descSize=18&descColor=e0f2fe&descAlignY=58)
 
 ### Conectando Automação Industrial, Redes e Cibersegurança para construir soluções seguras na tecnologia e na indústria.
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daphnesoares)
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daphnesoares1@gmail.com)
+[LINKEDIN](https://www.linkedin.com/in/daphnesoares) | e-mail: daphnesoares1@gmail.com
 
 </div>
 
@@ -16,7 +17,7 @@
 - 🎓 **Técnica em Automação** (IFBA); **Engenheira de Controle e Automação** (SENAI CIMATEC); Pós-graduanda em **Gestão de Projetos** (FACUMINAS).
 - 🛡️ Aluna do programa **Mulher Digital** (JA Brasil / Cisco Networking Academy), com foco em **cibersegurança, redes e infraestrutura**.
 - ⚙️ Experiência prática na **operação de processos químicos industriais**, análise de loops de controle e sistemas operacionais.
-- 🌐 Formação técnica contínua em **Redes, Cibersegurança, Python, Excel, SQL e Power BI**, com foco em aplicação prática e simulação no **Cisco Packet Tracer**.
+- 🌐 Formação técnica contínua em **Redes, Cisco, Cibersegurança, Python, Excel, SQL, Power BI, Linguagem C, Elipse E3 Studio e MATLAB/Octave**, com foco em aplicação prática e simulação no **Cisco Packet Tracer**.
 - 🗣️ **Inglês Nível B1 (Intermediário)** — EF Education First.
 - ⚡ **Inconformada por natureza e metódica na execução:** movida pelo desejo de otimizar processos, investigar vulnerabilidades e colocar soluções práticas em ação com precisão.
 
