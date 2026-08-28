@@ -1,67 +1,57 @@
-# Daphne Soares Santos
-
-<div align="center">
-
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:002b49,50:005b96,100:6497b1&height=200&section=header&text=Daphne%20Soares%20Santos&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Engenharia%20de%20Controle%20e%20Automa%C3%A7%C3%A3o%20%7C%20Ciberseguran%C3%A7a%20%26%20OT&descSize=18&descColor=e0f2fe&descAlignY=58)
-
-### Conectando Automação Industrial, Redes e Cibersegurança para construir soluções seguras na tecnologia e na indústria.
-
-[LINKEDIN](https://www.linkedin.com/in/daphnesoares) | e-mail: daphnesoares1@gmail.com
-
-</div>
+# Daphne Soares Santos[cite: 1]
+**Analista de Segurança da Informação Júnior | Pentester Júnior | Cibersegurança**  
+Salvador, BA | (71) 99395-6076 | daphnesoares1@gmail.com[cite: 1]  
+[LinkedIn](https://www.linkedin.com/in/daphnesoares)[cite: 1] | [GitHub](https://github.com/daphnesoares)
 
 ---
 
-### 👩‍💻 Sobre Mim
+## 🛡️ Sobre Mim
+Engenheira de Controle e Automação (SENAI CIMATEC)[cite: 1] em evolução contínua para a área de **Segurança da Informação e Cibersegurança**, com foco em **Pentest (Red Team/Ethical Hacking) e Criptografia**. 
 
-- 🎓 **Técnica em Automação** (IFBA); **Engenheira de Controle e Automação** (SENAI CIMATEC); Pós-graduanda em **Gestão de Projetos** (FACUMINAS).
-- 🛡️ Aluna do programa **Mulher Digital** (JA Brasil / Cisco Networking Academy), com foco em **cibersegurança, redes e infraestrutura**.
-- ⚙️ Experiência prática na **operação de processos químicos industriais**, análise de loops de controle e sistemas operacionais.
-- 🌐 Formação técnica contínua em **Redes, Cisco, Cibersegurança, Python, Excel, SQL, Power BI, Linguagem C, Elipse E3 Studio e MATLAB/Octave**, com foco em aplicação prática e simulação no **Cisco Packet Tracer**.
-- 🗣️ **Inglês Nível B1 (Intermediário)** — EF Education First.
-- ⚡ **Inconformada por natureza e metódica na execução:** movida pelo desejo de otimizar processos, investigar vulnerabilidades e colocar soluções práticas em ação com precisão.
+Combino raciocínio lógico estruturado, investigação técnica de causa-raiz e rigor metodológico para mapear vulnerabilidades, analisar riscos e estruturar relatórios técnicos detalhados. Atualmente me especializo em Cibersegurança pela **Cisco Networking Academy**[cite: 1] e desenvolvo scripts de automação e análise utilizando **Python e C**[cite: 1]. Possuo vivência internacional (Irlanda, Inglaterra e França)[cite: 1], garantindo autonomia e comunicação técnica fluente.
 
 ---
 
-### 🛠️ Ferramentas e Certificados
-
-<br>
-
-[![Cibersegurança](https://img.shields.io/badge/CIBERSEGURANÇA-005b96?style=for-the-badge&logo=shield&logoColor=white)](#)
-<br>
-[![Redes](https://img.shields.io/badge/REDES-005b96?style=for-the-badge&logo=cisco&logoColor=white)](#)
-<br>
-[![Automação OT](https://img.shields.io/badge/AUTOMAÇÃO_OT-005b96?style=for-the-badge&logo=cpu&logoColor=white)](#)
-<br>
-[![Packet Tracer](https://img.shields.io/badge/PACKET_TRACER-005b96?style=for-the-badge&logo=cisco&logoColor=white)](#)
-<br>
-[![GitHub](https://img.shields.io/badge/GITHUB-005b96?style=for-the-badge&logo=github&logoColor=white)](#)
-
-<br>
-
-#### 📜 Certificações & Cursos
-
-[![Cisco - Introdução à Cibersegurança](https://img.shields.io/badge/CISCO-INTRODUÇÃO_À_CIBERSEGURANÇA-28A745?style=for-the-badge&logo=cisco&logoColor=white)](#)
-<br>
-[![Cisco - Noções Básicas de Redes](https://img.shields.io/badge/CISCO-NOÇÕES_BÁSICAS_DE_REDES-007BFF?style=for-the-badge&logo=cisco&logoColor=white)](#)
-<br>
-[![Cisco - Dispositivos de Rede e Configuração Inicial](https://img.shields.io/badge/CISCO-DISPOSITIVOS_DE_REDE_E_CONFIGURAÇÃO_INICIAL-0056b3?style=for-the-badge&logo=cisco&logoColor=white)](#)
-<br>
-[![Hashtag Treinamentos - Python, Excel e Power BI](https://img.shields.io/badge/HASHTAG_TREINAMENTOS-PYTHON%2C_EXCEL_E_POWER_BI-0284c7?style=for-the-badge&logo=python&logoColor=white)](#)
-<br>
-[![EF Education First - Inglês B1 Intermediário](https://img.shields.io/badge/EF_EDUCATION_FIRST-INGLÊS_B1_(INTERMEDIÁRIO)-0369a1?style=for-the-badge&logo=duolingo&logoColor=white)](#)
+## 🎯 Objetivo Profissional
+Atuar como **Analista de Segurança da Informação Júnior**, **Pentester Júnior** ou em programas de **Trainee em Cibersegurança**, aplicando testes de intrusão, identificação e documentação de brechas de segurança, mitigação de riscos e proteção de dados confidenciais via criptografia.
 
 ---
 
-### 🎯 Foco e Objetivos
+## 💻 Habilidades Técnicas (Hard Skills)
 
-- **Curto Prazo:** Desenvolver experiência prática e atuar na área de **Cibersegurança, NOC, SOC ou Segurança de Redes/OT**, aplicando meus conhecimentos em redes, automação e infraestrutura.
-- **Longo Prazo:** Consolidar carreira em **Segurança da Informação e Cibersegurança Industrial ou em Ambientes Corporativos**, liderando projetos de proteção e resiliência para infraestruturas críticas e corporativas.
+- **Cibersegurança & Pentest:** Fundamentos de Ethical Hacking, Análise de Vulnerabilidades, Testes de Intrusão, Criptografia Aplicada, Hardening de Sistemas.
+- **Linguagens & Scripting:** Python, C, Scripting para automação[cite: 1].
+- **Redes & Infraestrutura:** Arquitetura de Redes, Protocolos de Comunicação, Segurança em Redes (Cisco Networking Academy)[cite: 1].
+- **Análise de Dados & Banco de Dados:** SQL, Power BI, Excel Avançado[cite: 1].
+- **Sistemas Industriais & Automação:** Lógica de controle, PLCs, SDCD e segurança em ambiente de automação (OT/ICS)[cite: 1].
 
 ---
 
-<div align="center">
+## 🧠 Habilidades Comportamentais (Soft Skills)
 
-✨ *Aprendendo, praticando e integrando Engenharia, Tecnologia e Segurança, um passo de cada vez.*
+- **Pensamento Analítico:** Investigação minuciosa de sistemas e rastreio de causa-raiz de falhas.
+- **Rigor Metodológico:** Documentação técnica precisa e padronizada para relatórios de vulnerabilidade.
+- **Resolução de Problemas Complexos:** Capacidade de contornar desafios lógicos e estruturar soluções.
+- **Adaptabilidade & Comunicação Intercultural:** Vivência internacional com facilidade de atuação em times multidisciplinares[cite: 1].
 
-</div>
+---
+
+## 🎓 Formação Acadêmica & Certificações
+
+- **Certificação em Cibersegurança** — *Cisco Networking Academy* (Em andamento)[cite: 1]
+- **Pós-Graduação em Gestão de Projetos** — *FACUMINAS* (Em andamento)
+- **Bacharelado em Engenharia de Controle e Automação** — *SENAI CIMATEC* (Concluído em 2025)[cite: 1]
+- **Técnico Integrado em Automação Industrial** — *IFBA*[cite: 1]
+
+---
+
+## 🌐 Experiência Internacional & Projetos
+
+- **Intercâmbio Cultural (Irlanda, Inglaterra e França | 01/2024):** Desenvolvimento de autonomia, capacidade de adaptação em cenários complexos e comunicação fluente em inglês e espanhol[cite: 1].
+- **Hackathons & Projetos de Inovação:** Participação ativa no Hackathon Global (Invent For The Planet) e XI SIINTEC, aplicando resolução de problemas sob pressão e trabalho colaborativo[cite: 1].
+
+---
+
+## 💼 Trajetória Acadêmica e Profissional Anterior
+
+- **Indorama Ventures (Oxiteno) | Operadora de Processos (2021 – 2026):** Atuação em diagnóstico preditivo de anomalias em sistemas de alta complexidade, análise crítica de dados de performance, monitoramento de variados parâmetros críticos e elaboração de documentação técnica para capacitação de equipes[cite: 1].
