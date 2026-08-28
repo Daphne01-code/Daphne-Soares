@@ -1,7 +1,11 @@
 <div align="center">
-<p align="center">
-  <img src="https://vstf.dev" alt="Banner Daphne" width="100%">
-</p>
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor_list=a1c4fd,ffcdd2&height=200&section=header&text=Daphne%20Soares&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Em%20evolução%20profissional%20%20%7C%20Redes%20,%20Cibersegurança%20%,Análise%20de%20%20Dados%20%&descSize=18&descColor=ffffff&descAlignY=55&descAlign=50)
+
+
+
+
+
 
 ### Investigando vulnerabilidades, aplicando testes de intrusão e protegendo dados através da segurança ética.
 
