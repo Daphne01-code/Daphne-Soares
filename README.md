@@ -19,9 +19,12 @@
 
 ### Sobre Mim
 
-Engajo a engenharia de  controle e automação e o técnico em automação industrial  à segurança digital para ser uma executora implacável. Com formação técnica pelo IFBA, graduação pelo SENAI CIMATEC e especialização em Cybersecurity pela JA Brasil/Cisco, atuo com foco no inconformismo construtivo: investigo a causa-raiz de falhas sistêmicas,  conceitos e elimino perdas rotineiras.Possuo vivência internacional na Europa (Irlanda, Inglaterra e França), inglês intermediário e domínio de ferramentas analíticas e operacionais para análise de dados: Python, SQL, Excel, Power BI, Elipse E3, Cisco Packet Tracer. Sou movida pela resolução de crises complexas sob pressão, proatividade, trabalho em equipe e aprendizado contínuo.
+<div style="font-size: 12pt; font-weight: normal;">
 
----
+Conecto a Engenharia de Automação à Segurança Digital e à Análise de Dados para atuar de forma estratégica e altamente resolutiva. Com sólida base técnica pelo IFBA em automação industrial, graduação pelo SENAI CIMATEC e especialização em Cybersecurity pela JA Brasil/Cisco, aplico o meu perfil do inconformismo construtivo para rastrear a causa-raiz de falhas sistêmicas e mitigar riscos financeiros ou operacionais. Domino ferramentas analíticas como Python, SQL e Power BI, além de softwares industriais e de redes (Elipse E3, Cisco Packet Tracer). Possuo vivência internacional na Europa (Irlanda, Inglaterra e França) e destaco-me pela gestão de crises sob pressão, proatividade, trabalho individual ou em equipe e foco em aprendizado contínuo.
+
+</div>
+
 
 ### Áreas de Domínio & Badges
 
