@@ -7,7 +7,6 @@
 
 
 
-### Investigando vulnerabilidades, aplicando testes de intrusão e protegendo dados através da segurança ética.
 
 <br>
 
