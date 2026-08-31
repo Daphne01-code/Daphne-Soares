@@ -19,11 +19,7 @@
 
 ### Sobre Mim
 
-- **Formação Acadêmica:** Engenheira de Controle e Automação (SENAI CIMATEC) e Técnica em Automação Industrial (IFBA), Pós-graduanda em Gestão de Projetos (FACUMINAS).
-- **Especialização:** Programa Mulher Digital (JA Brasil / Cisco Networking Academy), com foco em Pentest, Ethical Hacking, Criptografia e Infraestrutura de Redes.
-- **Perfil Investigativo & Resolução de Problemas:** Foco no rastreio de causa-raiz, análise minuciosa de sistemas e documentação técnica precisa para relatórios de vulnerabilidade.
-- **Stack & Ferramentas:** Scripting e desenvolvimento em Python, Linguagem C;Elipse E3 Studio e MATLAB/Octave; análise de dados em SQL, Power BI e Excel Avançado; simulação e configuração de infraestrutura no Cisco Packet Tracer.
-- **Vivência Internacional & Idiomas:** Experiência prática de intercâmbio (Irlanda, Inglaterra e França), com Inglês Nível B1 (Intermediário) e Espanhol para comunicação e documentação técnica.
+Engajo a engenharia de  controle e automação e o técnico em automação industrial  à segurança digital e à governança de projetos para mitigar riscos operacionais e financeiros. Com formação técnica pelo IFBA, graduação pelo SENAI CIMATEC e especialização em Cybersecurity pela JA Brasil/Cisco, atuo com foco no inconformismo construtivo: investigo a causa-raiz de falhas sistêmicas, e conceitos e elimino perdas rotineiras.Possuo vivência internacional na Europa (Irlanda, Inglaterra e França), inglês intermediário e domínio de ferramentas analíticas e operacionais (Python, SQL, Power BI, Elipse E3, Cisoc Packet Tracer). Sou movida pela resolução de crises complexas sob pressão, proatividade, trabalho em equipe e aprendizado contínuo.
 
 ---
 
