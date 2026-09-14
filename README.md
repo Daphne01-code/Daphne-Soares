@@ -21,7 +21,7 @@
 
 <div style="font-size: 12pt; font-weight: normal;">
 
-Conecto a Engenharia de Automação à Segurança Digital e à Análise de Dados para atuar de forma estratégica e altamente resolutiva. Com sólida base técnica pelo IFBA em automação industrial, graduação pelo SENAI CIMATEC e especialização em Cybersecurity pela JA Brasil/Cisco, aplico o meu perfil do inconformismo construtivo para rastrear a causa-raiz de falhas sistêmicas e mitigar riscos financeiros ou operacionais. Domino ferramentas analíticas como Python, SQL e Power BI, além de softwares industriais e de redes (Elipse E3, Cisco Packet Tracer). Possuo vivência internacional na Europa (Irlanda, Inglaterra e França) e destaco-me pela gestão de crises sob pressão, proatividade, trabalho individual ou em equipe e foco em aprendizado contínuo.
+Uno a Engenharia de Automação à Segurança Digital e à Análise de Dados para atuar de forma estratégica e altamente resolutiva. Com sólida base técnica pelo IFBA em automação industrial, graduação pelo SENAI CIMATEC e em processo de especialização em Cybersecurity pela JA Brasil/Cisco, aplico o meu perfil do inconformismo construtivo para rastrear a causa-raiz de falhas sistêmicas e mitigar riscos financeiros ou operacionais. Domino ferramentas analíticas como Python, SQL e Power BI, além de softwares industriais e de redes (Elipse E3, Cisco Packet Tracer). Possuo vivência internacional na Europa (Irlanda, Inglaterra e França) o que me exigiu uma capacidade de adaptabilidade com diferentes culturas e destaco-me pela gestão de crises sob pressão, proatividade, trabalho individual ou em equipe e foco em aprendizado e melhoria contínua.
 
 </div>
 
