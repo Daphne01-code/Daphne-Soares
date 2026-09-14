@@ -21,25 +21,38 @@
 
 <div style="font-size: 12pt; font-weight: normal;">
 
-Uno a Engenharia de Automação à Segurança Digital e à Análise de Dados para atuar de forma estratégica e altamente resolutiva. Com sólida base técnica pelo IFBA em automação industrial, graduação pelo SENAI CIMATEC e em processo de especialização em Cybersecurity pela JA Brasil/Cisco, aplico o meu perfil do inconformismo construtivo para rastrear a causa-raiz de falhas sistêmicas e mitigar riscos financeiros ou operacionais. Domino ferramentas analíticas como Python, SQL e Power BI, além de softwares industriais e de redes (Elipse E3, Cisco Packet Tracer). Possuo vivência internacional na Europa (Irlanda, Inglaterra e França) o que me exigiu uma capacidade de adaptabilidade com diferentes culturas e destaco-me pela gestão de crises sob pressão, proatividade, trabalho individual ou em equipe e foco em aprendizado e melhoria contínua.
+Sou Engenheira de Controle e Automação, com experiência em operação industrial e formação técnica em Automação Industrial, atualmente direcionando minha evolução profissional para Cibersegurança, com interesse em ambientes industriais e corporativos. 
 
+Minha experiência em processos industriais, sistemas supervisórios, SDCD/PLC e interface com Engenharia, Automação e Manutenção me permite compreender os impactos técnicos e operacionais de falhas em ambientes críticos. Em paralelo, venho desenvolvendo conhecimentos em redes, segurança da informação, testes de vulnerabilidades, Python, SQL e análise de dados, aplicando esses conhecimentos em projetos práticos.
+
+Meu perfil é marcado pelo inconformismo construtivo: investigar causas, identificar riscos e buscar soluções que aumentem a segurança, a confiabilidade e a continuidade operacional.
+
+Também possuo vivência internacional na Irlanda, Inglaterra e França, experiência que ampliou minha adaptabilidade e comunicação em ambientes multiculturais.
 </div>
 
 
-### Áreas de Domínio & Badges
+### Áreas de Domínio & Interesse
 
 <br>
 
 [![Ethical Hacking](https://img.shields.io/badge/ETHICAL_HACKING-005b96?style=for-the-badge&logo=shield&logoColor=white)](#)
 [![Pentest & Vulnerabilidades](https://img.shields.io/badge/PENTEST_%26_VULNERABILIDADES-005b96?style=for-the-badge&logo=kalilinux&logoColor=white)](#)
-[![Criptografia](https://img.shields.io/badge/CRIPTOGRAFIA-005b96?style=for-the-badge&logo=lock&logoColor=white)](#)
-<br>
-[![Python](https://img.shields.io/badge/PYTHON-005b96?style=for-the-badge&logo=python&logoColor=white)](#)
-[![Linguagem C](https://img.shields.io/badge/LINGUAGEM_C-005b96?style=for-the-badge&logo=c&logoColor=white)](#)
-[![Linguagem Ada](https://img.shields.io/badge/ADA-005b96?style=for-the-badge&logo=code&logoColor=white)](#)
-[![VS Code](https://img.shields.io/badge/VS_CODE-005b96?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#)
 [![Redes & Cisco](https://img.shields.io/badge/REDES_%26_CISCO-005b96?style=for-the-badge&logo=cisco&logoColor=white)](#)
+[![Criptografia](https://img.shields.io/badge/CRIPTOGRAFIA-005b96?style=for-the-badge&logo=lock&logoColor=white)](#)
+
+<br>
+
+[![Python](https://img.shields.io/badge/PYTHON-005b96?style=for-the-badge&logo=python&logoColor=white)](#)
+[![SQL](https://img.shields.io/badge/SQL-005b96?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+[![Power BI](https://img.shields.io/badge/POWER_BI-005b96?style=for-the-badge&logo=powerbi&logoColor=white)](#)
 [![Análise de Dados](https://img.shields.io/badge/ANÁLISE_DE_DADOS-005b96?style=for-the-badge&logo=databricks&logoColor=white)](#)
+
+<br>
+
+[![PLC & Automação](https://img.shields.io/badge/PLC_%26_AUTOMAÇÃO-005b96?style=for-the-badge&logo=siemens&logoColor=white)](#)
+[![Sistemas Supervisórios](https://img.shields.io/badge/SISTEMAS_SUPERVISÓRIOS-005b96?style=for-the-badge&logo=opsgenie&logoColor=white)](#)
+[![Elipse E3](https://img.shields.io/badge/ELIPSE_E3-005b96?style=for-the-badge&logo=googlecloud&logoColor=white)](#)
+[![OT & ICS](https://img.shields.io/badge/OT_%26_ICS-005b96?style=for-the-badge&logo=security&logoColor=white)](#)
 
 <br>
 
@@ -59,10 +72,41 @@ Uno a Engenharia de Automação à Segurança Digital e à Análise de Dados par
 
 ### Foco e Objetivos Profissionais
 
-- **Curto Prazo:** Ingressar como Analista de Segurança da Informação Júnior, Pentester Júnior ou Trainee em Cibersegurança, atuando em testes de intrusão, mapeamento de falhas, emissão de relatórios técnicos e aplicação de criptografia.
-- **Longo Prazo:** Consolidar atuação como Pentester Plena / Red Team Specialist, liderando análises de riscos, arquitetura de proteção criptográfica e segurança defensiva em ambientes críticos corporativos, financeiros ou industriais.
+- **Curto Prazo:** Atuar em Cibersegurança como Analista Júnior ou Trainee em Cibersegurança, atuando em testes de intrusão, segurnaça de redes, vulnerabilidades, mapeamento de falhas, emissão de relatórios técnicos, aplicação de criptografia e análise de dados.
+- **Longo Prazo:** Consolidar atuação em OT Cybersecurity, liderando análises de riscos, arquitetura de proteção criptográfica e segurança defensiva em ambientes críticos corporativos, financeiros ou industriais.
 
 ---
+**Projetos e Vivência Internacional**
+
+* **AgroNexus – Invent for the Planet (2026):** Hackathon global com desenvolvimento de sistema sustentável de dessalinização utilizando bambu, com foco em ESG, viabilidade e escalabilidade.
+* **TCC – Automação da Dosagem de BHT (2025):** Desenvolvimento de solução de automação e controle para redução de intervenções manuais e aumento da eficiência operacional.
+* **XI SIINTEC (2025):** Suporte operacional, organização logística e atendimento ao público em simpósio internacional de tecnologia.
+* **Intercâmbio Cultural – Irlanda, Inglaterra e França (2024):** Vivência multicultural com uso de inglês e espanhol, desenvolvendo comunicação, autonomia e adaptabilidade.
+* **Iniciação Científica – Reabilitação de Afasia (2024):** Desenvolvimento de aplicativo mobile com estímulos cognitivos e rimas para apoio à recuperação da fala.
+* **Iniciação Científica – StopStrap (2019):** Protótipo de tecnologia assistiva com geolocalização e mensagens de voz para ampliar a autonomia de pessoas com deficiência visual.
+* **Iniciação Científica – Simple Traffic (2018):** Desenvolvimento de lógica para semáforos inteligentes visando à otimização do fluxo urbano.
+* **OBR – Olimpíada Brasileira de Robótica (2017):** Prêmio Ouro em Inovação na Campus Party Salvador pelo desenvolvimento de garra robótica.
+---
+**EXPERIÊNCIAS PROFISSIONAIS**
+
+**Oxiteno Nordeste S/A – Indorama Ventures | Camaçari, BA**
+
+**Operadora de Processos Químicos Júnior | jun/2024 – jan/2026**
+
+* Operação de processos contínuos em campo e painel, com monitoramento de variáveis críticas, KPIs e sistemas supervisórios/PI System.
+* Interface com Engenharia, Automação e Manutenção para diagnóstico de falhas, confiabilidade e otimização de processos.
+* Gestão de permissões de trabalho e bloqueios (LOTO), com foco em segurança e estabilidade operacional.
+* **Resultados:** eliminação de 100% dos reprocessos e retenções de estoque por análise de transmitância; capacitação de 100% da equipe em 3 semanas por meio de guias visuais de malhas críticas; zero acidentes em paradas de planta.
+
+**Operadora de Processos Químicos Trainee | jul/2022 – mai/2024**
+
+* Operação e acompanhamento de equipamentos e processos industriais, incluindo reatores, caldeiras, utilidades, bombas, compressores, torres, trocadores e tanques.
+* Diagnóstico de anomalias e interface com Automação, Engenharia e Manutenção para resolução de falhas e manobras de partida/parada.
+* Atuação com SDCD/PLC, Oracle e LIMS, além de liberações técnicas e LOTO conforme NRs 13, 20, 33 e 35.
+
+**Estagiária de Processos Químicos | jan/2021 – jun/2022**
+
+* Vivência prática em campo, com acompanhamento de processos operacionais, equipamentos e sistemas industriais da planta.
 
 <div align="center">
 
